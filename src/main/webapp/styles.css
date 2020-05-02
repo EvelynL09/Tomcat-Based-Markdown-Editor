@@ -1,0 +1,29 @@
+body {
+  background-color: LightBlue;
+}
+
+h1 {
+    /* SteelBlue */
+  /* color: #4682B4; */
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+.text {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+#title {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  /* border: 3px solid; */
+}
+
+#body {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  border: 0.5px solid;
+}
